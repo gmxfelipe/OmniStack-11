@@ -3,7 +3,7 @@
 <h2><p align="center"><strong> Semana OmniStack 11.0 
 
 
- <strong>Tela de Login.</strong>
+ <strong>Tela de Login</strong>
 
 
 <p align="center">
