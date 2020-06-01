@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://uploaddeimagens.com.br/images/002/566/863/original/logo_3x.png?1585870715"></p>
-<h2><p align="center"><strong> - Semana OmniStack 11.0 
+<h2><p align="center"><strong>  Semana OmniStack 11.0 
 
 
  <strong>Tela de Login</strong>
