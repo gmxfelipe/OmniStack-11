@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://uploaddeimagens.com.br/images/002/566/863/original/logo_3x.png?1585870715"></p>
-<h2><p align="center"><strong> Semana OmniStack 11.0 
+<h2><p align="center"><strong> Semana OmniStack 11.0 </strong>
 
 
  <strong> - Tela de Login</strong>
@@ -35,8 +35,8 @@
 O Be The Hero  é um projeto que tem como objetivo conectar pessoas que desejam fazer contribuições financeiras para ong´s que precisam de ajuda.</P> 
 <P> As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
- - <a href="https://nodejs.org/en/">Node.JS</a>
- - <a href="https://reactjs.org/"> React </a>
- - <a href="https://reactnative.dev"> React Native </a>
- - <a href="https://expo.io/"> Expo</a>
+ - <a href="https://nodejs.org/en/">🚀 Node.JS</a>
+ - <a href="https://reactjs.org/">⚛ React </a>
+ - <a href="https://reactnative.dev">⚛ React Native </a>
+ - <a href="https://expo.io/">🚀 Expo</a>
  
