@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" width="200px" />
+    <img alt="BeTheHero" src="https://raw.githubusercontent.com/alvarobasia/semana-omnistack-11/master/frontend/src/assets/logo.svg?token=AKIS25CSVRTCWGLJNDT4JWC6Q4Y4I&sanitize=true title="#delicinha" width="200px" />
 </h1>
 
 <h4 align="center">
