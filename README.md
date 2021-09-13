@@ -51,3 +51,8 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+                                                                                                                                                  
+<h4 align="center">
+  <em>&lt;/&gt;</em> by <a href="https://github.com/gmxfelipe" target="_blank">Felipe Augusto Gomes</a>
+</h4>                                                                                                                                                
+                                                                                                                                                  
